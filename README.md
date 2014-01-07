@@ -1,16 +1,20 @@
-<strong>With love by: <br>
-    Xilantra </strong>(http://afiq.me)     
+<h1>Fuckin Lazy To Upload Gallery</h1>
+
+<h3>With love by: <br>
+    Xilantra (http://afiq.me)</h3>
     
-    
+<strong>   
  Github:
     https://github.com/Xilantra/Fuckin-Lazy-To-Upload-Gallery  
-    
+ </strong> 
+<strong> 
  Demo:
-    https://Xilantra.github.io/Fuckin-Lazy-To-Upload-Gallery
-    
- Forked from
+    https://Xilantra.github.io/Fuckin-Lazy-To-Upload-Gallery <br>
+ </strong> 
+<strong> 
+Forked from
     https://github.com/codrops/GridLoadingEffects   
- 
+ </strong> 
 
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
     Version 2, December 2004 
