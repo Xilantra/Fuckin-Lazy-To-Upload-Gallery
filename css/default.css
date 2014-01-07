@@ -1,5 +1,4 @@
-/* General Demo Style */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+ @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 body, html { font-size: 100%; padding: 0; margin: 0;}
@@ -49,7 +48,7 @@ a:active {
 	padding: 0 0 0.6em 0.1em;
 }
 
-/* To Navigation Style */
+/* Top Navigation Style */
 .codrops-top {
 	background: #fff;
 	background: rgba(255, 255, 255, 0.8);
@@ -100,13 +99,13 @@ a:active {
 	content: "\e004";
 }
 
-/* Demo Buttons Style */
+/* Navigation */
 .navi {
 	padding-top: 1em;
 	font-size: 0.9em;
 }
 
-.codrops-demos a {
+.navi a {
 	display: inline-block;
 	margin: 0.5em;
 	padding: 0.7em 1.1em;
