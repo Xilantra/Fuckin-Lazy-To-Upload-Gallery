@@ -53,9 +53,9 @@
 		<div class="container">
 			<header>
 				<h1>Fuckin Lazy To Upload Gallery</h1>	
-				<nav class="codrops-demos">
+				<nav class="navi">
 				<!-- TODO: Ajax -->
-					<a class="current-demo" href="#">Gallery 1</a>
+					<a class="current" href="#">Gallery 1</a>
 					<a href="#">Gallery 2</a>
 					<a href="#">Gallery 3</a>
 					<a href="#">Gallery 4</a>

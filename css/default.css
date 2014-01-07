@@ -112,7 +112,7 @@ a:active {
 }
 
 /* Demo Buttons Style */
-.codrops-demos {
+.navi {
 	padding-top: 1em;
 	font-size: 0.9em;
 }
@@ -126,9 +126,9 @@ a:active {
 	font-weight: 700;
 }
 
-.codrops-demos a:hover,
-.codrops-demos a.current-demo,
-.codrops-demos a.current-demo:hover {
+.navi a:hover,
+.navi a.current,
+.navi a.current:hover {
 	opacity: 0.6;
 }
 
