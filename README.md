@@ -12,7 +12,7 @@
 <br>
 I'm too lazy for that.<br>
 <br>
-So I google some JS/PHP gallery and none of them suit my needs. I want something like <a href="http://pinterest.com/afiq" title="Follow me!">Pinterest</a> because it's simple and just perfect for a gallery with a lot of pictures.<br>
+So I googled for some JS/PHP gallery but none of them suit my needs. I want something like <a href="http://pinterest.com/afiq" title="Follow me!">Pinterest</a>, or masonry style, or something with mosaic layout because it's simple and just perfect for a gallery with a lot of pictures.<br>
 And this is it, the result.<br>
 <br>
 <br>
