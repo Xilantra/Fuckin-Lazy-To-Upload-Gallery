@@ -9,7 +9,7 @@
  </strong> 
 <strong> 
  Demo:
-    https://Xilantra.github.io/Fuckin-Lazy-To-Upload-Gallery <br>
+    http://afiq.me/kebun/Fuckin-Lazy-To-Upload-Gallery <br>
  </strong> 
 <strong> 
 Forked from
