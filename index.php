@@ -51,6 +51,25 @@
 		<script src="js/modernizr.custom.js"></script>
 	</head>
 	<style>
+	/* Overide */
+.mfp-bg {
+
+  background: url(popup-bg.jpg) center center; 
+  opacity: 1 !important;
+  filter: none !important;
+        -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+            display: table;
+      height: 100%;
+      width: 100%; }
+
+.mfp-counter {
+color: #888;
+}
+	/* Overide ends */
+	
 	.image-source-link {
 	color: #98C3D1;
 }
@@ -81,7 +100,9 @@
 	<body>
 		<div class="container">
 			<header>
-				<h1>Fuckin Lazy To Upload Gallery</h1> <strong>#FLTUG</strong>	
+				<h1><strong>Fuckin Lazy To Upload Gallery</strong></h1>
+				<h3>#FLTUG. By: Xilantra</h3>
+ 
 				<nav class="navi">
 				<!-- TODO: Ajax -->
 					<a class="current" href="#">Gallery 1</a>
