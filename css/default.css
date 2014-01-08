@@ -48,57 +48,6 @@ a:active {
 	padding: 0 0 0.6em 0.1em;
 }
 
-/* Top Navigation Style */
-.codrops-top {
-	background: #fff;
-	background: rgba(255, 255, 255, 0.8);
-	text-transform: uppercase;
-	width: 100%;
-	font-size: 0.69em;
-	line-height: 2.2;
-}
-
-.codrops-top a {
-	padding: 0 1em;
-	letter-spacing: 0.1em;
-	color: #6b7381;
-	display: inline-block;
-}
-
-.codrops-top a:hover {
-	color: #424b5a;
-	background: rgba(255,255,255,1);
-}
-
-.codrops-top span.right {
-	float: right;
-}
-
-.codrops-top span.right a {
-	float: left;
-	display: block;
-}
-
-.codrops-icon:before {
-	font-family: 'codropsicons';
-	margin: 0 4px;
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-}
-
-.codrops-icon-drop:before {
-	content: "\e001";
-}
-
-.codrops-icon-prev:before {
-	content: "\e004";
-}
-
 /* Navigation */
 .navi {
 	padding-top: 1em;
@@ -120,10 +69,36 @@ a:active {
 	opacity: 0.6;
 }
 
+.page-wrap {
+  background: transparent;
+  margin: 1rem auto;
+  max-width: 30rem;
+  padding: 2rem;
+}
+
+.social {
+  text-align: center;
+  font-size: 0;
+  background: #eee;
+  padding: 0.5rem;
+}
+.social-button {
+  display: inline-block;
+  width: 32%;
+  margin-right: 2%;
+  padding: 0.5rem;
+  background: #ccc;
+  text-align: center;
+}
+.social-button:last-child {
+  margin-right: 0;
+}
+.social-button iframe {
+  display: inline;
+}
+ 
 @media screen and (max-width: 25em) {
 
-	.codrops-icon span {
-		display: none;
-	}
+ 
 
 }
