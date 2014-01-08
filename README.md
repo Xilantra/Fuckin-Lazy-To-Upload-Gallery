@@ -1,9 +1,9 @@
-<h1><strong>Fuckin Lazy To Upload Gallery</strong></h1>
+<h1>Fuckin Lazy To Upload Gallery</h1>
 <h3><a href="#">#FLTUG</a> By: Xilantra (http://afiq.me)</h3>
     
-  <h1>What the hell is this?
-  Another fuckin lightbox?</h1>
-  <p style="text-align: left; padding: 0 6em 0 6em;font-size: 1.4em;">
+  <h2>What the hell is this?
+  Another fuckin lightbox?</h2>
+  <p>
   <strong>Nope.</strong><br>
   It's a simple solution to display any image on your folder;<br>
   without codes, with style. Simple.<br>
