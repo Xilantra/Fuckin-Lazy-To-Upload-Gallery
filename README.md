@@ -15,12 +15,13 @@
   I had a problem with my client, they want to upload all their picture in their static gallery page. I tried to have something plain like maybe using Flickr API or Dropbox gallery or anything simple because I'm too lazy to upload all their picture and using a CMS gallery or anything that include a login system will only cause them (me) a headache.<br>
 <br>
 <strong>I'm too lazy for that.</strong><br>
+So I googled for some JS/PHP gallery but none of them suit my needs. I want something like <a href="http://pinterest.com/afiq" title="Follow me!">Pinterest</a>, masonry style, or something with mosaic layout because it's simple, fun and just perfect for a gallery with a lot of pictures.<br>
+Of course there is a lot of cool awesome gallery plugin out there but again, I need something simple, nice, and easy to deal with all the picture.<br>
+And this is it, the <a href="https://github.com/Xilantra/Fuckin-Lazy-To-Upload-Gallery" title="Fork it!">result</a>.<br>
 <br>
-So I googled for some JS/PHP gallery but none of them suit my needs. I want something like <a href="http://pinterest.com/afiq" title="Follow me!">Pinterest</a>, or masonry style, or something with mosaic layout because it's simple and just perfect for a gallery with a lot of pictures.<br>
-And this is it, the <a href="http://afiq.me/kebun/Fuckin-Lazy-To-Upload-Gallery" title="Share it!">result</a>.<br>
 <br>
-<br>
-Ok, enough shit.
+Ok, enough shit.<br>
+<a href="https://github.com/Xilantra/Fuckin-Lazy-To-Upload-Gallery/archive/master.zip" title="Download from Github">Download.</a>
 </p>
 
 
